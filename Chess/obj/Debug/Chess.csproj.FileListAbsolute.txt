@@ -1,0 +1,46 @@
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\Chess\obj\Debug\Chess.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\Chess\obj\Debug\Chess.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\Chess\obj\Debug\MainWindow.g.cs
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\Chess\obj\Debug\App.g.cs
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\Chess\obj\Debug\Chess_MarkupCompile.cache
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\Chess\obj\Debug\Chess_MarkupCompile.lref
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\Chess\bin\Debug\Chess.exe.manifest
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\Chess\bin\Debug\Chess.application
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\Chess\bin\Debug\ChessEngine.dll
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\Chess\bin\Debug\ChessEngine.pdb
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\Chess\obj\Debug\MainWindow.baml
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\Chess\obj\Debug\Chess.g.resources
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\Chess\obj\Debug\Chess.exe.manifest
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\Chess\obj\Debug\Chess.application
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\Chess\obj\Debug\Chess.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\Chess\obj\Debug\Chess.pdb
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\Chess\bin\Debug\Chess.exe.manifest
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\Chess\bin\Debug\Chess.application
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\Chess\bin\Debug\ChessEngine.dll
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\Chess\bin\Debug\ChessEngine.pdb
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\Chess\obj\Debug\Chess.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\Chess\obj\Debug\Chess.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\Chess\obj\Debug\MainWindow.g.cs
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\Chess\obj\Debug\App.g.cs
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\Chess\obj\Debug\Chess_MarkupCompile.cache
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\Chess\obj\Debug\Chess_MarkupCompile.lref
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\Chess\obj\Debug\MainWindow.baml
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\Chess\obj\Debug\Chess.g.resources
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\Chess\obj\Debug\Chess.exe.manifest
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\Chess\obj\Debug\Chess.application
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\Chess\obj\Debug\Chess.csproj.CopyComplete
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\Chess\obj\Debug\Chess.pdb

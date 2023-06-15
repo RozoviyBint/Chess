@@ -1,0 +1,18 @@
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\ChessEngine\bin\Debug\ChessEngine.dll
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\ChessEngine\bin\Debug\ChessEngine.pdb
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\ChessEngine\obj\Debug\ChessEngine.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\ChessEngine\obj\Debug\ChessEngine.g.resources
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\ChessEngine\obj\Debug\ChessEngine.Properties.Resources.resources
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\ChessEngine\obj\Debug\ChessEngine.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\ChessEngine\obj\Debug\ChessEngine.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\ChessEngine\obj\Debug\ChessEngine.dll
+C:\Users\Alexander\Desktop\Новая папка (10)\chess-pvp\Chess\ChessEngine\obj\Debug\ChessEngine.pdb
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\ChessEngine\bin\Debug\ChessEngine.dll
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\ChessEngine\bin\Debug\ChessEngine.pdb
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\ChessEngine\obj\Debug\ChessEngine.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\ChessEngine\obj\Debug\ChessEngine.g.resources
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\ChessEngine\obj\Debug\ChessEngine.Properties.Resources.resources
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\ChessEngine\obj\Debug\ChessEngine.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\ChessEngine\obj\Debug\ChessEngine.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\ChessEngine\obj\Debug\ChessEngine.dll
+C:\Users\Alexander\Desktop\Шахматы\chess-pvp\Chess\ChessEngine\obj\Debug\ChessEngine.pdb
